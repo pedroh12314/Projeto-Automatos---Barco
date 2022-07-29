@@ -52,8 +52,7 @@ HR
 int main()
 {
      system("CLS");
-     cout << "ENUNCIADO" << endl;
-     cout << endl;
+     cout << "ENUNCIADO: Um homem (h) precisa atravessar um rio e dispoe de uma embarcacao (e) com capacidade limitada.\nEle esta acompanhado de uma raposa (r), um saco de milho (m) e uma galinha (g). A embarcacao somente pode\nser conduzida pelo homem. Alem do condutor, so e possivel transportar um outro elemento por vez (ou a \nraposa, ou o saco de milho, ou a galinha). Porem, o homem nunca podera deixar em quaisquer das margens \ndo rio, a menos que tambem esteja junto, a raposa com a galinha (pois neste caso, sem a supervisao do \nhomem, a raposa comera a galinha), ou entao, a galinha com o saco de milho (pois neste outro caso, sem a \nsupervisao do homem, a galinha comera todo o milho). O homem pode conduzir a embarcacao sozinho, caso \nseja necessario" << endl;
 
      // SOLICITA CONFIRMACAO PARA PROSSEGUIR
      pressEnter();
