@@ -184,7 +184,7 @@ void runAutomato()
           case 10:
                system("cls");
                cout << "ESTADO ATUAL: " << estadoAutomato << endl;
-               cout << "\n\n“QUEBRA CABEÇA CONCLUIDO!!!!\n\n";
+               cout << "\n\n“QUEBRA CABECA CONCLUIDO!!!!\n\n";
                pressEnter();
                estadoAutomato = 11;
 
